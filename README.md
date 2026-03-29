@@ -1,6 +1,6 @@
 # 🤖 Robot móvil Cortacésped
 
-Este repositorio contiene el diseño de hardware y el firmware base para la unidad de control central de un robot móvil cortacésped teleoperado mediante una **App Móvil**.
+Este repositorio contiene el diseño de hardware y el firmware base para la unidad de control central de un robot móvil cortacésped teleoperado
 
 El núcleo de este proyecto es una **PCB personalizada**  diseñada para gestionar potencia, navegación y un sistema de seguridad redundante, utilizando el microcontrolador **ESP32-S3**.
 
