@@ -2,14 +2,14 @@
 
 Este repositorio contiene el diseño de hardware y el firmware base para la unidad de control central de un robot móvil cortacésped teleoperado
 
-El núcleo de este proyecto es una **PCB personalizada**  diseñada para gestionar potencia, navegación y un sistema de seguridad redundante, utilizando el microcontrolador **ESP32-S3**.
+El núcleo de este proyecto es una **PCB personalizada**  diseñada para gestionar potencia, navegación y sistema de seguridad utilizando el microcontrolador **ESP32-S3**.
 
 ## Especificaciones Técnicas de la PCB
 
 Nuestra especialización se centra en la integración de sensores y la gestión de actuadores de potencia:
 
 ### Cerebro y Conectividad
-* **MCU:** `ESP32-S3-WROOM-1`. Doble núcleo con soporte nativo para Wi-Fi y Bluetooth LE, permitiendo el control
+* **MCU:** `ESP32-S3-WROOM-1`. Doble núcleo con soporte nativo para Wi-Fi y Bluetooth
 
 ### Sistema de Seguridad y Detección de Obstáculos
 El robot implementa una estrategia de seguridad de dos niveles:
