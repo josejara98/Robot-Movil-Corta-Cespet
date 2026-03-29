@@ -1,4 +1,4 @@
-# 🤖 Control para Robot móvil Cortacésped
+# 🤖 Robot móvil Cortacésped
 
 Este repositorio contiene el diseño de hardware y el firmware base para la unidad de control central de un robot móvil cortacésped teleoperado mediante una **App Móvil**.
 
