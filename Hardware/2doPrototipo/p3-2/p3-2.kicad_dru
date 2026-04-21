@@ -1,0 +1,6 @@
+(version 1)
+
+(rule "clearance_IMU"
+  (constraint clearance (min 0.125mm))
+  (condition "A.Reference == 'IMU1' || B.Reference == 'IMU1'")
+)
